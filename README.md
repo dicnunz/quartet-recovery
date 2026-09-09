@@ -1,4 +1,4 @@
-# Clara
+# Quartet Recovery
 
 Schubert, *Quartettsatz*, D. 703. Optical music recognition from eight scanned pages, with four-part synthesis and comparison to the OpenScore reference.
 
