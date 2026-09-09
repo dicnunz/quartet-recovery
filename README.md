@@ -17,7 +17,7 @@ The prediction contains 4,453 note segments; the reference contains 4,352. Predi
 
 ## Run
 
-Linux x86-64 needs Python 3, Java with compiler modules, GCC, `dpkg-deb`, Poppler and FFmpeg. Audiveris bundles its Java runtime; allow 8 GB RAM. Downloads are checked against [sources.json](data/sources.json). Verification requires the original git history to inspect the freeze commit. If using the delivery ZIP, clone its `PROJECT.bundle` as directed in `START-HERE.md`; copying only the working files is insufficient for that history check.
+Linux x86-64 needs Python 3, Java with compiler modules, GCC, `dpkg-deb`, Poppler and FFmpeg. Audiveris bundles its Java runtime; allow 8 GB RAM. Downloads are checked against [sources.json](data/sources.json). Verification requires the original git history to inspect the freeze commit. Clone this repository with Git to preserve the history required by verification. If using the original delivery ZIP, clone the included `quartet-recovery.bundle`; copying only the working files is insufficient for that history check.
 
 ```sh
 python -m pip install -r requirements.txt
