@@ -1,0 +1,1895 @@
+{
+  "policy": "Union of numeric printed measure labels and duplicate occurrence across parts; absent measures become rests. Source-only interpretation, no reference used.",
+  "measures": [
+    {
+      "label": "1",
+      "occurrence": 0,
+      "quarter_onset": 0,
+      "quarters": 3.0
+    },
+    {
+      "label": "2",
+      "occurrence": 0,
+      "quarter_onset": 3.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "3",
+      "occurrence": 0,
+      "quarter_onset": 6.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "4",
+      "occurrence": 0,
+      "quarter_onset": 9.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "5",
+      "occurrence": 0,
+      "quarter_onset": 12.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "6",
+      "occurrence": 0,
+      "quarter_onset": 15.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "7",
+      "occurrence": 0,
+      "quarter_onset": 18.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "8",
+      "occurrence": 0,
+      "quarter_onset": 21.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "9",
+      "occurrence": 0,
+      "quarter_onset": 24.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "10",
+      "occurrence": 0,
+      "quarter_onset": 27.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "11",
+      "occurrence": 0,
+      "quarter_onset": 30.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "12",
+      "occurrence": 0,
+      "quarter_onset": 33.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "13",
+      "occurrence": 0,
+      "quarter_onset": 36.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "14",
+      "occurrence": 0,
+      "quarter_onset": 39.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "15",
+      "occurrence": 0,
+      "quarter_onset": 42.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "16",
+      "occurrence": 0,
+      "quarter_onset": 45.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "17",
+      "occurrence": 0,
+      "quarter_onset": 48.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "18",
+      "occurrence": 0,
+      "quarter_onset": 51.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "19",
+      "occurrence": 0,
+      "quarter_onset": 54.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "20",
+      "occurrence": 0,
+      "quarter_onset": 57.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "21",
+      "occurrence": 0,
+      "quarter_onset": 60.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "22",
+      "occurrence": 0,
+      "quarter_onset": 63.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "23",
+      "occurrence": 0,
+      "quarter_onset": 66.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "24",
+      "occurrence": 0,
+      "quarter_onset": 69.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "25",
+      "occurrence": 0,
+      "quarter_onset": 72.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "26",
+      "occurrence": 0,
+      "quarter_onset": 75.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "27",
+      "occurrence": 0,
+      "quarter_onset": 78.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "28",
+      "occurrence": 0,
+      "quarter_onset": 81.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "29",
+      "occurrence": 0,
+      "quarter_onset": 84.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "30",
+      "occurrence": 0,
+      "quarter_onset": 87.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "31",
+      "occurrence": 0,
+      "quarter_onset": 90.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "32",
+      "occurrence": 0,
+      "quarter_onset": 93.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "33",
+      "occurrence": 0,
+      "quarter_onset": 96.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "34",
+      "occurrence": 0,
+      "quarter_onset": 99.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "35",
+      "occurrence": 0,
+      "quarter_onset": 102.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "36",
+      "occurrence": 0,
+      "quarter_onset": 105.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "37",
+      "occurrence": 0,
+      "quarter_onset": 108.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "38",
+      "occurrence": 0,
+      "quarter_onset": 111.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "39",
+      "occurrence": 0,
+      "quarter_onset": 114.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "40",
+      "occurrence": 0,
+      "quarter_onset": 117.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "41",
+      "occurrence": 0,
+      "quarter_onset": 120.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "42",
+      "occurrence": 0,
+      "quarter_onset": 123.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "42",
+      "occurrence": 1,
+      "quarter_onset": 126.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "43",
+      "occurrence": 0,
+      "quarter_onset": 129.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "44",
+      "occurrence": 0,
+      "quarter_onset": 132.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "45",
+      "occurrence": 0,
+      "quarter_onset": 135.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "46",
+      "occurrence": 0,
+      "quarter_onset": 138.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "47",
+      "occurrence": 0,
+      "quarter_onset": 141.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "48",
+      "occurrence": 0,
+      "quarter_onset": 144.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "49",
+      "occurrence": 0,
+      "quarter_onset": 147.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "50",
+      "occurrence": 0,
+      "quarter_onset": 150.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "51",
+      "occurrence": 0,
+      "quarter_onset": 153.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "52",
+      "occurrence": 0,
+      "quarter_onset": 156.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "53",
+      "occurrence": 0,
+      "quarter_onset": 159.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "54",
+      "occurrence": 0,
+      "quarter_onset": 162.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "55",
+      "occurrence": 0,
+      "quarter_onset": 165.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "56",
+      "occurrence": 0,
+      "quarter_onset": 168.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "57",
+      "occurrence": 0,
+      "quarter_onset": 171.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "58",
+      "occurrence": 0,
+      "quarter_onset": 174.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "59",
+      "occurrence": 0,
+      "quarter_onset": 177.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "60",
+      "occurrence": 0,
+      "quarter_onset": 180.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "61",
+      "occurrence": 0,
+      "quarter_onset": 183.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "62",
+      "occurrence": 0,
+      "quarter_onset": 186.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "63",
+      "occurrence": 0,
+      "quarter_onset": 189.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "64",
+      "occurrence": 0,
+      "quarter_onset": 192.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "65",
+      "occurrence": 0,
+      "quarter_onset": 195.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "66",
+      "occurrence": 0,
+      "quarter_onset": 198.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "67",
+      "occurrence": 0,
+      "quarter_onset": 201.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "68",
+      "occurrence": 0,
+      "quarter_onset": 204.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "69",
+      "occurrence": 0,
+      "quarter_onset": 207.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "70",
+      "occurrence": 0,
+      "quarter_onset": 210.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "71",
+      "occurrence": 0,
+      "quarter_onset": 213.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "72",
+      "occurrence": 0,
+      "quarter_onset": 216.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "73",
+      "occurrence": 0,
+      "quarter_onset": 219.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "74",
+      "occurrence": 0,
+      "quarter_onset": 222.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "75",
+      "occurrence": 0,
+      "quarter_onset": 225.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "76",
+      "occurrence": 0,
+      "quarter_onset": 228.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "77",
+      "occurrence": 0,
+      "quarter_onset": 231.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "78",
+      "occurrence": 0,
+      "quarter_onset": 234.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "79",
+      "occurrence": 0,
+      "quarter_onset": 237.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "80",
+      "occurrence": 0,
+      "quarter_onset": 240.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "81",
+      "occurrence": 0,
+      "quarter_onset": 243.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "82",
+      "occurrence": 0,
+      "quarter_onset": 246.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "83",
+      "occurrence": 0,
+      "quarter_onset": 249.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "84",
+      "occurrence": 0,
+      "quarter_onset": 252.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "85",
+      "occurrence": 0,
+      "quarter_onset": 255.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "86",
+      "occurrence": 0,
+      "quarter_onset": 258.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "87",
+      "occurrence": 0,
+      "quarter_onset": 261.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "88",
+      "occurrence": 0,
+      "quarter_onset": 264.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "89",
+      "occurrence": 0,
+      "quarter_onset": 267.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "90",
+      "occurrence": 0,
+      "quarter_onset": 270.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "91",
+      "occurrence": 0,
+      "quarter_onset": 273.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "92",
+      "occurrence": 0,
+      "quarter_onset": 276.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "93",
+      "occurrence": 0,
+      "quarter_onset": 279.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "94",
+      "occurrence": 0,
+      "quarter_onset": 282.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "95",
+      "occurrence": 0,
+      "quarter_onset": 285.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "96",
+      "occurrence": 0,
+      "quarter_onset": 288.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "97",
+      "occurrence": 0,
+      "quarter_onset": 291.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "98",
+      "occurrence": 0,
+      "quarter_onset": 294.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "99",
+      "occurrence": 0,
+      "quarter_onset": 297.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "100",
+      "occurrence": 0,
+      "quarter_onset": 300.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "101",
+      "occurrence": 0,
+      "quarter_onset": 303.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "102",
+      "occurrence": 0,
+      "quarter_onset": 306.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "103",
+      "occurrence": 0,
+      "quarter_onset": 309.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "104",
+      "occurrence": 0,
+      "quarter_onset": 312.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "105",
+      "occurrence": 0,
+      "quarter_onset": 315.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "106",
+      "occurrence": 0,
+      "quarter_onset": 318.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "107",
+      "occurrence": 0,
+      "quarter_onset": 321.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "108",
+      "occurrence": 0,
+      "quarter_onset": 324.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "109",
+      "occurrence": 0,
+      "quarter_onset": 327.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "110",
+      "occurrence": 0,
+      "quarter_onset": 330.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "111",
+      "occurrence": 0,
+      "quarter_onset": 333.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "112",
+      "occurrence": 0,
+      "quarter_onset": 336.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "113",
+      "occurrence": 0,
+      "quarter_onset": 339.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "114",
+      "occurrence": 0,
+      "quarter_onset": 342.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "115",
+      "occurrence": 0,
+      "quarter_onset": 345.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "116",
+      "occurrence": 0,
+      "quarter_onset": 348.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "117",
+      "occurrence": 0,
+      "quarter_onset": 351.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "118",
+      "occurrence": 0,
+      "quarter_onset": 354.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "119",
+      "occurrence": 0,
+      "quarter_onset": 357.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "120",
+      "occurrence": 0,
+      "quarter_onset": 360.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "121",
+      "occurrence": 0,
+      "quarter_onset": 363.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "122",
+      "occurrence": 0,
+      "quarter_onset": 366.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "123",
+      "occurrence": 0,
+      "quarter_onset": 369.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "124",
+      "occurrence": 0,
+      "quarter_onset": 372.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "125",
+      "occurrence": 0,
+      "quarter_onset": 375.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "126",
+      "occurrence": 0,
+      "quarter_onset": 378.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "127",
+      "occurrence": 0,
+      "quarter_onset": 381.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "128",
+      "occurrence": 0,
+      "quarter_onset": 384.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "129",
+      "occurrence": 0,
+      "quarter_onset": 387.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "130",
+      "occurrence": 0,
+      "quarter_onset": 390.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "131",
+      "occurrence": 0,
+      "quarter_onset": 393.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "132",
+      "occurrence": 0,
+      "quarter_onset": 396.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "133",
+      "occurrence": 0,
+      "quarter_onset": 399.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "134",
+      "occurrence": 0,
+      "quarter_onset": 402.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "135",
+      "occurrence": 0,
+      "quarter_onset": 405.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "136",
+      "occurrence": 0,
+      "quarter_onset": 408.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "137",
+      "occurrence": 0,
+      "quarter_onset": 411.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "138",
+      "occurrence": 0,
+      "quarter_onset": 414.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "139",
+      "occurrence": 0,
+      "quarter_onset": 417.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "140",
+      "occurrence": 0,
+      "quarter_onset": 420.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "141",
+      "occurrence": 0,
+      "quarter_onset": 423.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "142",
+      "occurrence": 0,
+      "quarter_onset": 426.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "143",
+      "occurrence": 0,
+      "quarter_onset": 429.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "144",
+      "occurrence": 0,
+      "quarter_onset": 432.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "145",
+      "occurrence": 0,
+      "quarter_onset": 435.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "146",
+      "occurrence": 0,
+      "quarter_onset": 438.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "147",
+      "occurrence": 0,
+      "quarter_onset": 441.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "148",
+      "occurrence": 0,
+      "quarter_onset": 444.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "149",
+      "occurrence": 0,
+      "quarter_onset": 447.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "150",
+      "occurrence": 0,
+      "quarter_onset": 450.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "151",
+      "occurrence": 0,
+      "quarter_onset": 453.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "152",
+      "occurrence": 0,
+      "quarter_onset": 456.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "153",
+      "occurrence": 0,
+      "quarter_onset": 459.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "154",
+      "occurrence": 0,
+      "quarter_onset": 462.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "155",
+      "occurrence": 0,
+      "quarter_onset": 465.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "156",
+      "occurrence": 0,
+      "quarter_onset": 468.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "157",
+      "occurrence": 0,
+      "quarter_onset": 471.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "158",
+      "occurrence": 0,
+      "quarter_onset": 474.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "159",
+      "occurrence": 0,
+      "quarter_onset": 477.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "160",
+      "occurrence": 0,
+      "quarter_onset": 480.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "161",
+      "occurrence": 0,
+      "quarter_onset": 483.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "162",
+      "occurrence": 0,
+      "quarter_onset": 486.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "163",
+      "occurrence": 0,
+      "quarter_onset": 489.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "164",
+      "occurrence": 0,
+      "quarter_onset": 492.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "165",
+      "occurrence": 0,
+      "quarter_onset": 495.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "166",
+      "occurrence": 0,
+      "quarter_onset": 498.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "167",
+      "occurrence": 0,
+      "quarter_onset": 501.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "168",
+      "occurrence": 0,
+      "quarter_onset": 504.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "169",
+      "occurrence": 0,
+      "quarter_onset": 507.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "170",
+      "occurrence": 0,
+      "quarter_onset": 510.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "171",
+      "occurrence": 0,
+      "quarter_onset": 513.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "172",
+      "occurrence": 0,
+      "quarter_onset": 516.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "173",
+      "occurrence": 0,
+      "quarter_onset": 519.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "174",
+      "occurrence": 0,
+      "quarter_onset": 522.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "175",
+      "occurrence": 0,
+      "quarter_onset": 525.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "176",
+      "occurrence": 0,
+      "quarter_onset": 528.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "177",
+      "occurrence": 0,
+      "quarter_onset": 531.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "178",
+      "occurrence": 0,
+      "quarter_onset": 534.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "179",
+      "occurrence": 0,
+      "quarter_onset": 537.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "180",
+      "occurrence": 0,
+      "quarter_onset": 540.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "181",
+      "occurrence": 0,
+      "quarter_onset": 543.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "182",
+      "occurrence": 0,
+      "quarter_onset": 546.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "183",
+      "occurrence": 0,
+      "quarter_onset": 549.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "184",
+      "occurrence": 0,
+      "quarter_onset": 552.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "185",
+      "occurrence": 0,
+      "quarter_onset": 555.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "186",
+      "occurrence": 0,
+      "quarter_onset": 558.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "187",
+      "occurrence": 0,
+      "quarter_onset": 561.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "188",
+      "occurrence": 0,
+      "quarter_onset": 564.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "189",
+      "occurrence": 0,
+      "quarter_onset": 567.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "190",
+      "occurrence": 0,
+      "quarter_onset": 570.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "191",
+      "occurrence": 0,
+      "quarter_onset": 573.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "192",
+      "occurrence": 0,
+      "quarter_onset": 576.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "193",
+      "occurrence": 0,
+      "quarter_onset": 579.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "194",
+      "occurrence": 0,
+      "quarter_onset": 582.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "195",
+      "occurrence": 0,
+      "quarter_onset": 585.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "196",
+      "occurrence": 0,
+      "quarter_onset": 588.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "197",
+      "occurrence": 0,
+      "quarter_onset": 591.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "198",
+      "occurrence": 0,
+      "quarter_onset": 594.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "199",
+      "occurrence": 0,
+      "quarter_onset": 597.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "200",
+      "occurrence": 0,
+      "quarter_onset": 600.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "201",
+      "occurrence": 0,
+      "quarter_onset": 603.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "202",
+      "occurrence": 0,
+      "quarter_onset": 606.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "203",
+      "occurrence": 0,
+      "quarter_onset": 609.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "204",
+      "occurrence": 0,
+      "quarter_onset": 612.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "205",
+      "occurrence": 0,
+      "quarter_onset": 615.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "206",
+      "occurrence": 0,
+      "quarter_onset": 618.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "207",
+      "occurrence": 0,
+      "quarter_onset": 621.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "208",
+      "occurrence": 0,
+      "quarter_onset": 624.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "209",
+      "occurrence": 0,
+      "quarter_onset": 627.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "210",
+      "occurrence": 0,
+      "quarter_onset": 630.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "211",
+      "occurrence": 0,
+      "quarter_onset": 633.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "212",
+      "occurrence": 0,
+      "quarter_onset": 636.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "213",
+      "occurrence": 0,
+      "quarter_onset": 639.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "214",
+      "occurrence": 0,
+      "quarter_onset": 642.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "215",
+      "occurrence": 0,
+      "quarter_onset": 645.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "216",
+      "occurrence": 0,
+      "quarter_onset": 648.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "217",
+      "occurrence": 0,
+      "quarter_onset": 651.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "218",
+      "occurrence": 0,
+      "quarter_onset": 654.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "219",
+      "occurrence": 0,
+      "quarter_onset": 657.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "220",
+      "occurrence": 0,
+      "quarter_onset": 660.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "221",
+      "occurrence": 0,
+      "quarter_onset": 663.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "222",
+      "occurrence": 0,
+      "quarter_onset": 666.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "223",
+      "occurrence": 0,
+      "quarter_onset": 669.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "224",
+      "occurrence": 0,
+      "quarter_onset": 672.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "225",
+      "occurrence": 0,
+      "quarter_onset": 675.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "226",
+      "occurrence": 0,
+      "quarter_onset": 678.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "227",
+      "occurrence": 0,
+      "quarter_onset": 681.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "228",
+      "occurrence": 0,
+      "quarter_onset": 684.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "229",
+      "occurrence": 0,
+      "quarter_onset": 687.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "230",
+      "occurrence": 0,
+      "quarter_onset": 690.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "231",
+      "occurrence": 0,
+      "quarter_onset": 693.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "232",
+      "occurrence": 0,
+      "quarter_onset": 696.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "233",
+      "occurrence": 0,
+      "quarter_onset": 699.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "234",
+      "occurrence": 0,
+      "quarter_onset": 702.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "235",
+      "occurrence": 0,
+      "quarter_onset": 705.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "236",
+      "occurrence": 0,
+      "quarter_onset": 708.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "237",
+      "occurrence": 0,
+      "quarter_onset": 711.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "238",
+      "occurrence": 0,
+      "quarter_onset": 714.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "239",
+      "occurrence": 0,
+      "quarter_onset": 717.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "240",
+      "occurrence": 0,
+      "quarter_onset": 720.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "241",
+      "occurrence": 0,
+      "quarter_onset": 723.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "241",
+      "occurrence": 1,
+      "quarter_onset": 726.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "242",
+      "occurrence": 0,
+      "quarter_onset": 729.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "243",
+      "occurrence": 0,
+      "quarter_onset": 732.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "244",
+      "occurrence": 0,
+      "quarter_onset": 735.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "245",
+      "occurrence": 0,
+      "quarter_onset": 738.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "246",
+      "occurrence": 0,
+      "quarter_onset": 741.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "247",
+      "occurrence": 0,
+      "quarter_onset": 744.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "248",
+      "occurrence": 0,
+      "quarter_onset": 747.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "249",
+      "occurrence": 0,
+      "quarter_onset": 750.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "250",
+      "occurrence": 0,
+      "quarter_onset": 753.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "251",
+      "occurrence": 0,
+      "quarter_onset": 756.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "252",
+      "occurrence": 0,
+      "quarter_onset": 759.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "253",
+      "occurrence": 0,
+      "quarter_onset": 762.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "254",
+      "occurrence": 0,
+      "quarter_onset": 765.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "255",
+      "occurrence": 0,
+      "quarter_onset": 768.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "256",
+      "occurrence": 0,
+      "quarter_onset": 771.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "257",
+      "occurrence": 0,
+      "quarter_onset": 774.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "258",
+      "occurrence": 0,
+      "quarter_onset": 777.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "259",
+      "occurrence": 0,
+      "quarter_onset": 780.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "260",
+      "occurrence": 0,
+      "quarter_onset": 783.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "261",
+      "occurrence": 0,
+      "quarter_onset": 786.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "262",
+      "occurrence": 0,
+      "quarter_onset": 789.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "263",
+      "occurrence": 0,
+      "quarter_onset": 792.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "264",
+      "occurrence": 0,
+      "quarter_onset": 795.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "265",
+      "occurrence": 0,
+      "quarter_onset": 798.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "266",
+      "occurrence": 0,
+      "quarter_onset": 801.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "267",
+      "occurrence": 0,
+      "quarter_onset": 804.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "268",
+      "occurrence": 0,
+      "quarter_onset": 807.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "269",
+      "occurrence": 0,
+      "quarter_onset": 810.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "270",
+      "occurrence": 0,
+      "quarter_onset": 813.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "271",
+      "occurrence": 0,
+      "quarter_onset": 816.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "272",
+      "occurrence": 0,
+      "quarter_onset": 819.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "273",
+      "occurrence": 0,
+      "quarter_onset": 822.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "274",
+      "occurrence": 0,
+      "quarter_onset": 825.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "275",
+      "occurrence": 0,
+      "quarter_onset": 828.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "276",
+      "occurrence": 0,
+      "quarter_onset": 831.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "277",
+      "occurrence": 0,
+      "quarter_onset": 834.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "278",
+      "occurrence": 0,
+      "quarter_onset": 837.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "279",
+      "occurrence": 0,
+      "quarter_onset": 840.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "280",
+      "occurrence": 0,
+      "quarter_onset": 843.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "281",
+      "occurrence": 0,
+      "quarter_onset": 846.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "282",
+      "occurrence": 0,
+      "quarter_onset": 849.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "283",
+      "occurrence": 0,
+      "quarter_onset": 852.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "284",
+      "occurrence": 0,
+      "quarter_onset": 855.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "285",
+      "occurrence": 0,
+      "quarter_onset": 858.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "286",
+      "occurrence": 0,
+      "quarter_onset": 861.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "287",
+      "occurrence": 0,
+      "quarter_onset": 864.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "288",
+      "occurrence": 0,
+      "quarter_onset": 867.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "289",
+      "occurrence": 0,
+      "quarter_onset": 870.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "290",
+      "occurrence": 0,
+      "quarter_onset": 873.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "291",
+      "occurrence": 0,
+      "quarter_onset": 876.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "292",
+      "occurrence": 0,
+      "quarter_onset": 879.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "293",
+      "occurrence": 0,
+      "quarter_onset": 882.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "294",
+      "occurrence": 0,
+      "quarter_onset": 885.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "295",
+      "occurrence": 0,
+      "quarter_onset": 888.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "296",
+      "occurrence": 0,
+      "quarter_onset": 891.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "297",
+      "occurrence": 0,
+      "quarter_onset": 894.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "298",
+      "occurrence": 0,
+      "quarter_onset": 897.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "299",
+      "occurrence": 0,
+      "quarter_onset": 900.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "300",
+      "occurrence": 0,
+      "quarter_onset": 903.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "301",
+      "occurrence": 0,
+      "quarter_onset": 906.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "302",
+      "occurrence": 0,
+      "quarter_onset": 909.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "303",
+      "occurrence": 0,
+      "quarter_onset": 912.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "304",
+      "occurrence": 0,
+      "quarter_onset": 915.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "305",
+      "occurrence": 0,
+      "quarter_onset": 918.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "306",
+      "occurrence": 0,
+      "quarter_onset": 921.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "307",
+      "occurrence": 0,
+      "quarter_onset": 924.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "308",
+      "occurrence": 0,
+      "quarter_onset": 927.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "309",
+      "occurrence": 0,
+      "quarter_onset": 930.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "310",
+      "occurrence": 0,
+      "quarter_onset": 933.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "311",
+      "occurrence": 0,
+      "quarter_onset": 936.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "312",
+      "occurrence": 0,
+      "quarter_onset": 939.0,
+      "quarters": 3.0
+    },
+    {
+      "label": "313",
+      "occurrence": 0,
+      "quarter_onset": 942.0,
+      "quarters": 3.0
+    }
+  ]
+}

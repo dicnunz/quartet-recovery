@@ -1,0 +1,32 @@
+{
+  "pitch_onset": {
+    "matches": 2071,
+    "predicted": 4453,
+    "reference": 4352,
+    "precision": 0.4650797215360431,
+    "recall": 0.4758731617647059,
+    "f1": 0.47041453719477566
+  },
+  "pitch_onset_duration": {
+    "matches": 1874,
+    "predicted": 4453,
+    "reference": 4352,
+    "precision": 0.42083988322479227,
+    "recall": 0.4306066176470588,
+    "f1": 0.42566723452583766
+  },
+  "predicted_measures": [
+    312,
+    314,
+    314,
+    310
+  ],
+  "reference_measures": [
+    315,
+    315,
+    315,
+    315
+  ],
+  "reference_sha256": "6e34036ba2788c8d0a4ebb013303cf033a0594a8a238bf4147caf740de573038",
+  "method": "Multiset intersection of written segments by staff order and measure index. No alignment, transposition, repeat expansion or post-reference repair. Structural shifts penalize all later measures."
+}

@@ -1,0 +1,9 @@
+{
+  "quarter_bpm": 168,
+  "last_event_seconds": 338.0357142857143,
+  "sounding_segments": 4303,
+  "valid_tie_continuations_merged": 150,
+  "recognized_tremolos": 0,
+  "parts": 4,
+  "semantics": "Written segments aligned by source measure label and duplicate occurrence, no repeat/tremolo expansion; valid adjacent ties merged, malformed ties rearticulated; zero-duration grace notes omitted. No reference repairs. Four string presets assigned by staff order."
+}

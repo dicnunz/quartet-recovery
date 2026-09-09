@@ -1,0 +1,56 @@
+[
+  {
+    "path": "vendor/audiveris.deb",
+    "url": "https://github.com/Audiveris/audiveris/releases/download/5.11.0/Audiveris-5.11.0-ubuntu22.04-x86_64.deb",
+    "sha256": "ae714594f40e54b1a4951fc3f914f08ae38fe5d07b7f2283b1a904fdb6e0a318",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/soundfont.deb",
+    "url": "https://deb.debian.org/debian/pool/main/t/timgm6mb-soundfont/timgm6mb-soundfont_1.3-5_all.deb",
+    "sha256": "034abdfb296d9353433513dad5dbdcab46425ee6008fc02fe7039b46e75edc54",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/ecj.jar",
+    "url": "https://repo1.maven.org/maven2/org/eclipse/jdt/ecj/3.44.0/ecj-3.44.0.jar",
+    "sha256": "14c46ddc2e511c46c998da728f6a80f13a689c920f3832402f7ad150f6a6188d",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/CLI.java",
+    "url": "https://raw.githubusercontent.com/Audiveris/audiveris/5.11.0/app/src/main/java/org/audiveris/omr/CLI.java",
+    "sha256": "76a86fcd84ccc312c1e4df29bd1405dd4640e08954ab2ba18e504c3c93f902ea",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/tessdata/eng.traineddata",
+    "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/main/eng.traineddata",
+    "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/tinysoundfont/tsf.h",
+    "url": "https://raw.githubusercontent.com/schellingb/TinySoundFont/853a0a171759f1ddba0de1442133a75912bbeffa/tsf.h",
+    "sha256": "70d55963c98f60ebb81518eaa1f25d46888d5180eb5f5289fd6b74ffc177d197",
+    "phase": "tools"
+  },
+  {
+    "path": "vendor/tinysoundfont/LICENSE",
+    "url": "https://raw.githubusercontent.com/schellingb/TinySoundFont/853a0a171759f1ddba0de1442133a75912bbeffa/LICENSE",
+    "sha256": "ef10cb839de73fb6d5d32ea7151979e87809a6df70dc7e7ee8457ae1c9e7aa7e",
+    "phase": "tools"
+  },
+  {
+    "path": "data/scan.pdf",
+    "url": "https://ks15.imslp.org/files/imglnks/usimg/7/7c/IMSLP04039-SchubertStringQuartetNo12.pdf",
+    "sha256": "06e7c3c02732be267795a847a904306097a03639396a411892a5e2c41b89ba8d",
+    "phase": "scan"
+  },
+  {
+    "path": "data/reference.musicxml",
+    "url": "https://raw.githubusercontent.com/MALerLab/ossq-omr/7a17e45cddc0b7064fc3a179b62caeb57595e993/scores/Schubert,_Franz/String_Quartet_in_C_minor,_D.703/sq7648382.musicxml",
+    "sha256": "6e34036ba2788c8d0a4ebb013303cf033a0594a8a238bf4147caf740de573038",
+    "phase": "reference"
+  }
+]

@@ -1,0 +1,5 @@
+/build/
+/vendor/
+/results/omr/
+__pycache__/
+*.pyc

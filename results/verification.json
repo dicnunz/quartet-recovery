@@ -1,0 +1,17 @@
+{
+  "frozen_playback_events": "exact match with rational-time source reconstruction",
+  "synthesis_mp3_correlation": 0.9999323917698703,
+  "video_excerpt_correlation": 0.9999391588165136,
+  "strict_and_aligned_metrics": "recomputed",
+  "frozen_hashes": "pass",
+  "freeze_commit": "pass",
+  "source_hashes": "pass",
+  "common_measure_alignment": "pass",
+  "balanced_four_part_events": "pass",
+  "midi_duration_seconds": 338.03541666666666,
+  "audio_seconds": 340.0357142857143,
+  "audio_rms": 0.048388682305812836,
+  "audio_peak": 0.5819778442382812,
+  "engraved_pages": 72,
+  "video": "1920x1080, 64 seconds, audio, full decode passed"
+}
