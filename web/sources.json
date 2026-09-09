@@ -1,0 +1,372 @@
+{
+  "sources": [
+    {
+      "source": "results/notation/page-01.svg",
+      "asset": "assets/page-01.svg",
+      "sha256": "cb28f782955f2ce838396338f76915c5ff378afa019a390166fb011fff5833ed"
+    },
+    {
+      "source": "results/notation/page-02.svg",
+      "asset": "assets/page-02.svg",
+      "sha256": "bf63f318a537068539f8096cad2880b60d41b56ba112ba882cd6d09c841d609e"
+    },
+    {
+      "source": "results/notation/page-03.svg",
+      "asset": "assets/page-03.svg",
+      "sha256": "08950f7ab5e9e06b0073dab3e9d568c06d128510514e26e227d948c4a831876f"
+    },
+    {
+      "source": "results/notation/page-04.svg",
+      "asset": "assets/page-04.svg",
+      "sha256": "fcaed083067018127ebccad8bcd5bd13a7b3d36a6022627bf73dbd0684f9e4cb"
+    },
+    {
+      "source": "results/notation/page-05.svg",
+      "asset": "assets/page-05.svg",
+      "sha256": "6446103fdcbe925a311fb52da07275740cd1579b4c6409e235205a2a48f9e60f"
+    },
+    {
+      "source": "results/notation/page-06.svg",
+      "asset": "assets/page-06.svg",
+      "sha256": "627b28c5ce28554ecb9813d8412cc9b34d17acefa4ef2370aa5699d448c4ad59"
+    },
+    {
+      "source": "results/notation/page-07.svg",
+      "asset": "assets/page-07.svg",
+      "sha256": "4a52c11d4e41e6d83420668aa1094fa27a354903edf70c524927b725e6a02edd"
+    },
+    {
+      "source": "results/notation/page-08.svg",
+      "asset": "assets/page-08.svg",
+      "sha256": "091c39e7982120d0957ca4c6712f43350bec9903af275d19bb551dcd7987a1f3"
+    },
+    {
+      "source": "results/notation/page-09.svg",
+      "asset": "assets/page-09.svg",
+      "sha256": "f3b848cbfcb28766edc03dc03edaeae085d554dbc79186b1201d79dee9ddf6cf"
+    },
+    {
+      "source": "results/notation/page-10.svg",
+      "asset": "assets/page-10.svg",
+      "sha256": "e11b743d0e23a2324aedbef2d917045ea4232cebd6d9cc09549e92439aaf1d7a"
+    },
+    {
+      "source": "results/notation/page-11.svg",
+      "asset": "assets/page-11.svg",
+      "sha256": "1cafa176335d8d5ffb83f612c16c792d508bb8724386368d86e03724dc24f97d"
+    },
+    {
+      "source": "results/notation/page-12.svg",
+      "asset": "assets/page-12.svg",
+      "sha256": "34b25fdd01671474cebdf3ec8a3b8f607438a116ae39b59da096fb6a8640849d"
+    },
+    {
+      "source": "results/notation/page-13.svg",
+      "asset": "assets/page-13.svg",
+      "sha256": "7c69ea51d7c2a825eca8b23b2b9005adc5c8e73ad59ef2922f2e908b3084d0b4"
+    },
+    {
+      "source": "results/notation/page-14.svg",
+      "asset": "assets/page-14.svg",
+      "sha256": "177a856a38dbd5a60986d62ece381e908afdee73021fd1a5ea7822939f55e2ac"
+    },
+    {
+      "source": "results/notation/page-15.svg",
+      "asset": "assets/page-15.svg",
+      "sha256": "bb0dff82ab62eaaa27501434d3ece572568d611f14a13ea516ae19044a9ec08e"
+    },
+    {
+      "source": "results/notation/page-16.svg",
+      "asset": "assets/page-16.svg",
+      "sha256": "74eb37efd9b041814e7ddd72bda116b59517654fe83322946fcc1fa4ed044cf7"
+    },
+    {
+      "source": "results/notation/page-17.svg",
+      "asset": "assets/page-17.svg",
+      "sha256": "8b4f9b00b59d1bb52a0472419039be1f393ffc012e293b029f3c95f64febfa1c"
+    },
+    {
+      "source": "results/notation/page-18.svg",
+      "asset": "assets/page-18.svg",
+      "sha256": "8846c31cb8f22a656a7a5228046e047da753fb76b795448b6b3f447461baef69"
+    },
+    {
+      "source": "results/notation/page-19.svg",
+      "asset": "assets/page-19.svg",
+      "sha256": "957fc6ddb25277f52b2f1624e5d6c64644f5e20305968041fa9eda65c14c5009"
+    },
+    {
+      "source": "results/notation/page-20.svg",
+      "asset": "assets/page-20.svg",
+      "sha256": "f9e79873109f95a559bdb8367e9d49fa20f225414ae2878697ecd4bffaee4535"
+    },
+    {
+      "source": "results/notation/page-21.svg",
+      "asset": "assets/page-21.svg",
+      "sha256": "3bb273c9c6afc0e381bf354d017815662778fe1dfff7a00e8c203aee9997d258"
+    },
+    {
+      "source": "results/notation/page-22.svg",
+      "asset": "assets/page-22.svg",
+      "sha256": "f3ac0e6a0933c5f73f4389c2292e7f9292808de474ec38c1d5fcc3f77e366871"
+    },
+    {
+      "source": "results/notation/page-23.svg",
+      "asset": "assets/page-23.svg",
+      "sha256": "eb1534a49cef3a076d9623f52359a5aebdb6cd9b6201176920b635b134dcd752"
+    },
+    {
+      "source": "results/notation/page-24.svg",
+      "asset": "assets/page-24.svg",
+      "sha256": "93d1c301e0773c54868b0f8957febd1ab95dfd8f13a1ce3b333647896abd936d"
+    },
+    {
+      "source": "results/notation/page-25.svg",
+      "asset": "assets/page-25.svg",
+      "sha256": "7e002dbf2e0e552a793f3821222224e7f57cf0cb323c96ad8286154110bd6710"
+    },
+    {
+      "source": "results/notation/page-26.svg",
+      "asset": "assets/page-26.svg",
+      "sha256": "a83233178fe0a3ca202ce13fc86bc82002b09d4f8419a50ad806b1f0a3463a9b"
+    },
+    {
+      "source": "results/notation/page-27.svg",
+      "asset": "assets/page-27.svg",
+      "sha256": "cde6c0e72b5d9a2894e2d4f404e040b7e255d66318e70837e0a991289a53b438"
+    },
+    {
+      "source": "results/notation/page-28.svg",
+      "asset": "assets/page-28.svg",
+      "sha256": "7d0e1bee586ed2002b6ad747076de15ee119e3fff6f5892646da6aecd6ddf4e3"
+    },
+    {
+      "source": "results/notation/page-29.svg",
+      "asset": "assets/page-29.svg",
+      "sha256": "6843635d7afbf58868b8d4705053ec8aeeefb97bc40006c729b6039aa2625c02"
+    },
+    {
+      "source": "results/notation/page-30.svg",
+      "asset": "assets/page-30.svg",
+      "sha256": "d0a0119479f9d0312f7cd21db4d537d5e8f1dba1318875d18a219404908a2d43"
+    },
+    {
+      "source": "results/notation/page-31.svg",
+      "asset": "assets/page-31.svg",
+      "sha256": "457657b5c6aa10367be81f64623e2b424252c9c91444aaaa1b1ab1dd96100022"
+    },
+    {
+      "source": "results/notation/page-32.svg",
+      "asset": "assets/page-32.svg",
+      "sha256": "0995836cf79e25a8ac330066169b99712808f057fd4632fb1957be4f6b5b1b89"
+    },
+    {
+      "source": "results/notation/page-33.svg",
+      "asset": "assets/page-33.svg",
+      "sha256": "cb68f16ab55b20da0b339f80f26b244c9496006a1c4fe5db7eca6cf5c1ce18d8"
+    },
+    {
+      "source": "results/notation/page-34.svg",
+      "asset": "assets/page-34.svg",
+      "sha256": "51ca9572ae1449fb8b74f9cc222d231f59537f9694a1442993b9d4e360e1b599"
+    },
+    {
+      "source": "results/notation/page-35.svg",
+      "asset": "assets/page-35.svg",
+      "sha256": "2ec588d3eb29b9aaa8ba08a7611601fcd5addafe32e7c8c4148efb571bf95d05"
+    },
+    {
+      "source": "results/notation/page-36.svg",
+      "asset": "assets/page-36.svg",
+      "sha256": "7ea7b449e8f7eba88c05fa791d616a8f5d94d6fd2a89ecae2253adc51e8cb56b"
+    },
+    {
+      "source": "results/notation/page-37.svg",
+      "asset": "assets/page-37.svg",
+      "sha256": "2a30a1d22b553557c859c6d83bf444dbacdd325a68aa3a50832cb0e09a069914"
+    },
+    {
+      "source": "results/notation/page-38.svg",
+      "asset": "assets/page-38.svg",
+      "sha256": "9b1f678a229f1109efc8c15c20650135ad1071ef76dc4fd98d30712c88c683ea"
+    },
+    {
+      "source": "results/notation/page-39.svg",
+      "asset": "assets/page-39.svg",
+      "sha256": "4554dd58024a293fe14e332563bc8853b1b030b4291976ff3510e489c0b0b80e"
+    },
+    {
+      "source": "results/notation/page-40.svg",
+      "asset": "assets/page-40.svg",
+      "sha256": "7c9d6764829cdb10c7e8ad6232ed077d52ede66c436195a6c2f5cc0f93767985"
+    },
+    {
+      "source": "results/notation/page-41.svg",
+      "asset": "assets/page-41.svg",
+      "sha256": "c4cf22c1325fb4e216f8e4ae6f758dc01ba19752e0492f1dddb2504a57b92834"
+    },
+    {
+      "source": "results/notation/page-42.svg",
+      "asset": "assets/page-42.svg",
+      "sha256": "06d9fe44f1a0d552e3d91979434a76e1d9a0b3e1bdd13ed4f6dc9fecf2e500c8"
+    },
+    {
+      "source": "results/notation/page-43.svg",
+      "asset": "assets/page-43.svg",
+      "sha256": "ce7016b43189e568c321096bdeb7ea965e72a78dd249c964642151fee16b9b57"
+    },
+    {
+      "source": "results/notation/page-44.svg",
+      "asset": "assets/page-44.svg",
+      "sha256": "a1a59d78ffa1050f1681346bdf04a597434b51714275caad2658883aacf74a73"
+    },
+    {
+      "source": "results/notation/page-45.svg",
+      "asset": "assets/page-45.svg",
+      "sha256": "0bc2548d8d7f9e3e19e924e175653f23e8b852677d7bdb0e9fb2d043b2cf155f"
+    },
+    {
+      "source": "results/notation/page-46.svg",
+      "asset": "assets/page-46.svg",
+      "sha256": "85da0f777403f97de906a34f2d41f147832b17915be0c68e5eae738599eb36dc"
+    },
+    {
+      "source": "results/notation/page-47.svg",
+      "asset": "assets/page-47.svg",
+      "sha256": "1e0eafc09d354b0cb793ff87a4ff066bce35f026598828586c58ea9c80d4d03d"
+    },
+    {
+      "source": "results/notation/page-48.svg",
+      "asset": "assets/page-48.svg",
+      "sha256": "8dec8fe0f0bd7b60dc1eb02220457c6cb7ed24a6b55d79f26a18d3ecfe50ae55"
+    },
+    {
+      "source": "results/notation/page-49.svg",
+      "asset": "assets/page-49.svg",
+      "sha256": "1cac8615bc4ead65cafee3272d03d51211c32b251a3cdc14b196766dffbfb449"
+    },
+    {
+      "source": "results/notation/page-50.svg",
+      "asset": "assets/page-50.svg",
+      "sha256": "cf2deb61f596cf6218d52fd9bbca989f21501b896256e140e2b09e5de9efa722"
+    },
+    {
+      "source": "results/notation/page-51.svg",
+      "asset": "assets/page-51.svg",
+      "sha256": "7a89eac13d3362df9dd5f932bc42f6954170c0f882cf3599f25678fd3b0fb5be"
+    },
+    {
+      "source": "results/notation/page-52.svg",
+      "asset": "assets/page-52.svg",
+      "sha256": "b50242f7599fa669898a964286da3eaceefaadec8c35a7c6307fba996da61fc6"
+    },
+    {
+      "source": "results/notation/page-53.svg",
+      "asset": "assets/page-53.svg",
+      "sha256": "e48d2600ca5d9d65527f8c1fd27f7cff6b7804bb18d5c9e75c1373d968336d93"
+    },
+    {
+      "source": "results/notation/page-54.svg",
+      "asset": "assets/page-54.svg",
+      "sha256": "8b618c3894c09349222c0d03ac6aea4f8cc8024bae0cb41e8c1d85fb35a0a95e"
+    },
+    {
+      "source": "results/notation/page-55.svg",
+      "asset": "assets/page-55.svg",
+      "sha256": "ed58c032ea430d6dbf4005e18406dbe2548a5ccc4b0619649f0a5c02680dab12"
+    },
+    {
+      "source": "results/notation/page-56.svg",
+      "asset": "assets/page-56.svg",
+      "sha256": "fd68627d1f2d5df63d711190a2c5a68d8bb49e836a1f5129a7701da7f62b1aef"
+    },
+    {
+      "source": "results/notation/page-57.svg",
+      "asset": "assets/page-57.svg",
+      "sha256": "70400ea13c40b8ac76b9d592ad5ed5b1d87a9f9726b2d561367a10aacc12bab2"
+    },
+    {
+      "source": "results/notation/page-58.svg",
+      "asset": "assets/page-58.svg",
+      "sha256": "58848b2211d7051ba6bc58c27db80f57782d22e7475d323e603f5fbb79e5aa8d"
+    },
+    {
+      "source": "results/notation/page-59.svg",
+      "asset": "assets/page-59.svg",
+      "sha256": "ff681d50cf3d4965b39d1fe3a3ade8b3632d62685024ef68250f89b91d2d4cb7"
+    },
+    {
+      "source": "results/notation/page-60.svg",
+      "asset": "assets/page-60.svg",
+      "sha256": "5b2a80a36630b01813e4741a81ee13fdb1eff67cba28c93619f25659cd615145"
+    },
+    {
+      "source": "results/notation/page-61.svg",
+      "asset": "assets/page-61.svg",
+      "sha256": "cf7cbe692ad4d73664d0b73295622abd992874e16b1cdd22b9238036f1a110a0"
+    },
+    {
+      "source": "results/notation/page-62.svg",
+      "asset": "assets/page-62.svg",
+      "sha256": "ae55a777e4926d4ae08708c7fd664472c06f5d331c7f4e4e64c3c615302c41f9"
+    },
+    {
+      "source": "results/notation/page-63.svg",
+      "asset": "assets/page-63.svg",
+      "sha256": "f0305d4f1e0ec2f05f955d58fabce875e53875102736870f599d1eea87f7d5ce"
+    },
+    {
+      "source": "results/notation/page-64.svg",
+      "asset": "assets/page-64.svg",
+      "sha256": "829a3c82e0ed186492b3ed544db8546e1436d379c0bef0e64918567b62efadae"
+    },
+    {
+      "source": "results/notation/page-65.svg",
+      "asset": "assets/page-65.svg",
+      "sha256": "fb30396eceb7ec80bba13a2b49b7444188852dce26ade3ae7cc9ec748277b180"
+    },
+    {
+      "source": "results/notation/page-66.svg",
+      "asset": "assets/page-66.svg",
+      "sha256": "46286c88a912e28a9316dd81052f6c8867b2fa88fbd6195f3a520df60640e38d"
+    },
+    {
+      "source": "results/notation/page-67.svg",
+      "asset": "assets/page-67.svg",
+      "sha256": "657de4ecc3ec2c70ffe6a2f80549e4776bb83306882966a56c483d31ebcfc133"
+    },
+    {
+      "source": "results/notation/page-68.svg",
+      "asset": "assets/page-68.svg",
+      "sha256": "c812c3c7ca8d725c6159d847c495dd82926fb75b62e9b529915efc108a5a1a45"
+    },
+    {
+      "source": "results/notation/page-69.svg",
+      "asset": "assets/page-69.svg",
+      "sha256": "a17e1cb218f62392b4b7ba15df04811d89109c1eed40586618f12b5732e4f704"
+    },
+    {
+      "source": "results/notation/page-70.svg",
+      "asset": "assets/page-70.svg",
+      "sha256": "91120b65aaf41be95676ba1b4ee86502b3fbbdca9e7f6726fe1401d23d3db676"
+    },
+    {
+      "source": "results/notation/page-71.svg",
+      "asset": "assets/page-71.svg",
+      "sha256": "73c0ff8fc5d6649b3c7b9a1c167231c5e502480e61b96a56ba20b385aa3d229d"
+    },
+    {
+      "source": "results/notation/page-72.svg",
+      "asset": "assets/page-72.svg",
+      "sha256": "a028e5fe41183e42f7d1ac25c1e4fffa42bafeffe100aab07f42d487a9e3136a"
+    },
+    {
+      "source": "results/metrics.json",
+      "sha256": "0efb949775ae7725deeabe866977d6187f23c55915512925e43e176ff2380ff1"
+    },
+    {
+      "source": "results/aligned-diagnostic.json",
+      "sha256": "e28ce3c7e26b4caa68ed26172aa176ea47d6f443ead54c3cc0810521c6be8b62"
+    }
+  ]
+}

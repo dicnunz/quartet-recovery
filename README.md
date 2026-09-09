@@ -1,5 +1,8 @@
 # Quartet Recovery
 
+[Explore recorded results](https://dicnunz.github.io/demos/quartet-recovery/).
+[Browser inspection source](web/index.html). Open `web/index.html` locally to explore the recorded results; no server or install is needed. Validate the bundle with `python3 scripts/verify_web.py` and `node tests/web_controls.cjs`.
+
 Schubert, *Quartettsatz*, D. 703. Optical music recognition from eight scanned pages, with four-part synthesis and comparison to the OpenScore reference.
 
 [Video](demo/clara.mp4) · [Audio](results/performance.mp3) · [MusicXML](results/prediction.musicxml) · [Scan](data/scan.pdf)
