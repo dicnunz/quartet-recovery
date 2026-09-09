@@ -1,0 +1,42 @@
+{
+  "frozen_at_utc": "2026-09-09T19:58:15.324982+00:00",
+  "reference_accessed": false,
+  "input_sha256": "06e7c3c02732be267795a847a904306097a03639396a411892a5e2c41b89ba8d",
+  "files": {
+    "prediction.mxl": "e2cbef72255304d1b8a6672a09d901d2c5f37bef62c64ac325ffeba1267e5979",
+    "prediction.musicxml": "fc3f1184e30d09c3d38ea7107920763d768201bd1728ddfc136fe0612d48252a",
+    "prediction-events.json": "fbb1aa4c6bac9a5b25880447f316ef971ea0b19466068cf08ef413efde2dcb7e"
+  },
+  "event_extractor_sha256": "17f97873323c2451ed87160072ff7ff452ac038d379a956b198cf32835496592",
+  "corrections": "None. Raw Audiveris output; retained all recognition errors.",
+  "parts": [
+    {
+      "index": 0,
+      "id": "P1",
+      "name": "Voice",
+      "measure_count": 312,
+      "note_count": 1122
+    },
+    {
+      "index": 1,
+      "id": "P2",
+      "name": "Voice",
+      "measure_count": 314,
+      "note_count": 1179
+    },
+    {
+      "index": 2,
+      "id": "P3",
+      "name": "Voice",
+      "measure_count": 314,
+      "note_count": 1236
+    },
+    {
+      "index": 3,
+      "id": "P4",
+      "name": "Voice",
+      "measure_count": 310,
+      "note_count": 916
+    }
+  ]
+}
