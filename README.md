@@ -1,9 +1,8 @@
 # Quartet Recovery
 
-[Explore recorded results](https://dicnunz.github.io/demos/quartet-recovery/).
-[Browser inspection source](web/index.html). Open `web/index.html` locally to explore the recorded results; no server or install is needed. Validate the bundle with `python3 scripts/verify_web.py` and `node tests/web_controls.cjs`.
-
 Schubert, *Quartettsatz*, D. 703. Optical music recognition from eight scanned pages, with four-part synthesis and comparison to the OpenScore reference.
+
+[Explore recorded results](https://dicnunz.github.io/demos/quartet-recovery/)
 
 [Video](demo/clara.mp4) · [Audio](results/performance.mp3) · [MusicXML](results/prediction.musicxml) · [Scan](data/scan.pdf)
 
@@ -17,6 +16,15 @@ The transcription is uncorrected. Missing measures, rhythm errors and invalid ti
 | Reference-assisted measure alignment | 87.20% | 81.73% |
 
 4,453 predicted note segments; 4,352 reference notes. The second comparison is an alignment diagnostic. Both retain all notes in their denominators.
+
+## Inspect locally
+
+Open [web/index.html](web/index.html) in a browser; no installation is needed. To check the saved assets and controls:
+
+```sh
+python3 scripts/verify_web.py
+node tests/web_controls.cjs
+```
 
 ## Reproduce
 
